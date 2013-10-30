@@ -1,5 +1,6 @@
-var App = angular.module('myApp', []);
+'use strict'
 
+// var App = angular.module('myApp', []);
 // <canvas image="model.picture"></canvas>
 
 App.directive('ngCanvas', function(){
